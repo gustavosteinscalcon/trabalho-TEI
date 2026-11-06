@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Agenda de Tarefas",
+    "slug": "agenda-tarefas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#F4F6FA"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F4F6FA"
+      }
+    },
+    "plugins": ["expo-notifications"]
+  }
+}
